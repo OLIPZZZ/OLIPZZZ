@@ -1,4 +1,11 @@
-![wallpaper archlinux azul](https://github.com/user-attachments/assets/ea38d2c6-83ba-453f-85e0-6b4ce74b2d86)
+![git final](https://github.com/user-attachments/assets/c2bbf0b2-7adc-437e-b40d-21021ee74f29)
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 ## 🧠 Sobre mim
 
 Olá! Sou um entusiasta de **Cybersecurity** que acredito que curiosidade é a melhor ferramenta de aprendizado. Estudo segurança ofensiva e defensiva, com foco em entender sistemas profundamente — desde redes até engenharia reversa.
