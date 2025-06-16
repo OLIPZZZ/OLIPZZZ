@@ -1,3 +1,4 @@
+![wallpaper archlinux azul](https://github.com/user-attachments/assets/ea38d2c6-83ba-453f-85e0-6b4ce74b2d86)
 ## 🧠 Sobre mim
 
 Olá! Sou um entusiasta de **Cybersecurity** que acredito que curiosidade é a melhor ferramenta de aprendizado. Estudo segurança ofensiva e defensiva, com foco em entender sistemas profundamente — desde redes até engenharia reversa.
