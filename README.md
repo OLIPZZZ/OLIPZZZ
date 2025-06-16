@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/2e853f4c-b757-4e79-8e2f-174ed8c71f17.png" alt="Cybersecurity banner" width="600"/>
-</p>
-
 ## 🧠 Sobre mim
 
 Olá! Sou um entusiasta de **Cybersecurity** que acredito que curiosidade é a melhor ferramenta de aprendizado. Estudo segurança ofensiva e defensiva, com foco em entender sistemas profundamente — desde redes até engenharia reversa.
