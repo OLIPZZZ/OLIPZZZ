@@ -44,4 +44,4 @@ Durante o ensino médio, desenvolvi um **TCC sobre Inteligência Artificial**, o
 
 ---
 
-### 📫 Me encontre por aqui ou envie uma mensagem criptografada 😉
+### 📫 Me envie uma mensagem.
