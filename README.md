@@ -1,11 +1,8 @@
-<div align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="202605300628.mp4" type="video/mp4">
-    O teu navegador não suporta a reprodução de vídeo.
+<p align="center">
+  <video autoplay loop muted playsinline width="100%">
+    <source src="./202605300628.mp4" type="video/mp4">
   </video>
-</div>
-
-<br>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
