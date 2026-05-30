@@ -1,4 +1,18 @@
-<img width="1024" height="349" alt="MOSHED-2026-5-30-5-38-53" src="https://github.com/user-attachments/assets/a216ec1f-8cee-4583-8155-32726d17374d" />
+<p align="center" style="overflow: hidden; max-height: 290px; margin-bottom: 0;">
+  <img src="MOSHED-2026-5-30-5-49-53.gif" alt="Cyber Security Banner Animado" width="100%" style="transform: scale(1.06); transform-origin: top center;">
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OLIPZZZ/OLIPZZZ/output/github-snake-dark.svg" alt="Hacker Snake Game" width="100%">
+</p>
 
 <br>
 
