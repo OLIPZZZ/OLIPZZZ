@@ -106,11 +106,6 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLIPZZZ&theme=react-dark&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true&height=300" alt="Activity Graph Custom Red" width="750px">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OLIPZZZ/OLIPZZZ/output/github-snake-dark.svg" alt="Hacker Snake Game" width="100%">
-</p>
-
-
 ---
 
 ### 📜 /etc/manifesto.txt
