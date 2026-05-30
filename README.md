@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OLIPZZZ/OLIPZZZ/output/github-snake-dark.svg" alt="Hacker Snake Game" width="100%">
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
-</div>
-
 ---
 
 ### 👾 System.out.println("Curiosity is the ultimate exploit.");
