@@ -127,3 +127,8 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
 </div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OLIPZZZ/OLIPZZZ/output/github-snake-dark.svg" alt="Hacker Snake Game" width="100%">
+</p>
