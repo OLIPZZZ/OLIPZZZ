@@ -1,5 +1,9 @@
-<p align="center" style="overflow: hidden; max-height: 290px; margin-bottom: 0;">
-  <img src="202605300628.mp4"
+<div align="center">
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="202605300628.mp4" type="video/mp4">
+    O teu navegador não suporta a reprodução de vídeo.
+  </video>
+</div>
 
 <br>
 
