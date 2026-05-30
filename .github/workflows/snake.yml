@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule: # Roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite que tu rodes manualmente quando quiseres
+  workflow_dispatch: # Permite rodar manualmente quando quiser
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
             dist/github-snake-dark.svg?color_snake=#ff0000&color_dots=#000000,#300000,#600000,#900000,#ff0000&speed=20
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Atualizado para v4 (roda em Node mais recente)
         with:
           target_branch: output
           build_dir: dist
