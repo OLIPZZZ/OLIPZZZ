@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0deabaa8-7480-4a96-b4dd-462e46273083" alt="Cyber Security Banner Animado" width="100%">
-</p>
+<img width="1024" height="349" alt="MOSHED-2026-5-30-5-38-53" src="https://github.com/user-attachments/assets/a216ec1f-8cee-4583-8155-32726d17374d" />
 
 <br>
 
