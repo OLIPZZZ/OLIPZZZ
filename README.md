@@ -100,11 +100,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
-### 📊 Stats_&_Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=OLIPZZZ&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF4500&currStreakLabel=FF0000&sideLabels=c9d1d9&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=FF000033&card_width=600" />
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=c70000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&redirect=true)
 
 ---
 
