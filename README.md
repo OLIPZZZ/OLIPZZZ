@@ -100,6 +100,12 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
+<p align="center">
+  <img src="https://asciinema.org/a/221243.svg?theme=monokai&speed=2" alt="Red Terminal Log" width="750px">
+</p>
+
+---
+
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=c70000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&redirect=true)
