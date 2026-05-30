@@ -1,6 +1,5 @@
 <p align="center" style="overflow: hidden; max-height: 290px; margin-bottom: 0;">
-  <img src="202605300628.mp4" alt="Cyber Security Banner Animado" width="100%"">
-</p>
+  <img src="202605300628.mp4"
 
 <br>
 
