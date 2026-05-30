@@ -1,7 +1,5 @@
 <p align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="./202605300628.mp4" type="video/mp4">
-  </video>
+  <img src="banner.gif" alt="Banner Animado" width="100%">
 </p>
 
 <div align="center">
