@@ -9,16 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG/GIF
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#ff0000&color_dots=#000000,#300000,#600000,#900000,#ff0000&speed=20
-            dist/github-snake-dark.svg?color_snake=#ff0000&color_dots=#000000,#300000,#600000,#900000,#ff0000&speed=20
+            dist/github-snake.gif?color_snake=#ff0000&color_dots=#000000,#300000,#600000,#900000,#ff0000&gif_duration=30&gif_frames=3
+            dist/github-snake-dark.gif?color_snake=#ff0000&color_dots=#000000,#300000,#600000,#900000,#ff0000&gif_duration=30&gif_frames=3
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4 # Atualizado para v4 (roda em Node mais recente)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
