@@ -101,16 +101,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 ---
 
 <p align="center">
-  <!-- Status Principal Vermelho Underground -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OLIPZZZ&show_icons=true&theme=blood&hide_border=true&include_all_commits=true" alt="Sys Stats" width="49%">
-  
-  <!-- Linguagens em Modo Terminal Escuro -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIPZZZ&layout=compact&theme=blood&hide_border=true" alt="Core Tech" width="49%">
-</p>
-
-<p align="center">
-  <!-- Gráfico de Atividade Diária em Vermelho -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIPZZZ&theme=blood&hide_border=true" alt="System Streak" width="98%">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=OLIPZZZ&theme=dark" alt="3D Cyber Matrix" width="800px">
 </p>
 
 ---
