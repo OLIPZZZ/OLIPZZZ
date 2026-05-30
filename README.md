@@ -117,13 +117,12 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 ---
 
 
-<div align="center">
+<div align="right">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=c70000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qyslordivukkgwdgbjnekdb7z&redirect=true)
 
 </div>
 
-
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
 </div>
