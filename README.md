@@ -101,7 +101,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLIPZZZ&theme=tokyonight&bg_color=000000&hide_border=true&height=300" alt="Activity Wave" width="750px">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=OLIPZZZ&theme=radical" alt="3D Cyber Matrix" width="800px">
 </p>
 
 ---
