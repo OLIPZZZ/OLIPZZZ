@@ -1,197 +1,116 @@
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ██████╗ ██╗     ██╗██████╗ ███████╗███████╗███████╗       ║
-║   ██╔═══██╗██║     ██║██╔══██╗╚══███╔╝╚══███╔╝╚══███╔╝       ║
-║   ██║   ██║██║     ██║██████╔╝  ███╔╝   ███╔╝   ███╔╝        ║
-║   ██║   ██║██║     ██║██╔═══╝  ███╔╝   ███╔╝   ███╔╝         ║
-║   ╚██████╔╝███████╗██║██║     ███████╗███████╗███████╗        ║
-║    ╚═════╝ ╚══════╝╚═╝╚═╝     ╚══════╝╚══════╝╚══════╝        ║
-║                                                               ║
-║         Bug Bounty Hunter · CTF Player · Researcher           ║
-║                     São Paulo, Brasil 🇧🇷                      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=When+.bat+gets+blocked+by+policy...;.sct+quietly+walks+in+through+regsvr32+%F0%9F%90%8D)](https://git.io/typing-svg)
-
+  <img src="https://github.com/user-attachments/assets/c2bbf0b2-7adc-437e-b40d-21021ee74f29" alt="git banner" />
+</div>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
 </div>
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=OLIPZZZ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" />
+### 👾 System.out.println("Curiosity is the ultimate exploit.");
 
-### `whoami`
+Sou um explorador do mundo digital com foco em **Segurança Ofensiva e Pesquisa**. Acredito que para defender um sistema, você precisa saber exatamente como destruí-lo. Minha base principal de operações é dividida entre o **Garuda Linux (Dr460nized)** e o **Debian 12**, onde passo meu tempo dissecando arquiteturas, analisando tráfego e quebrando coisas para entender como consertá-las.
 
-```bash
-$ cat /etc/olipzzz/profile.conf
-
-[identity]
-handle     = OLIPZZZ
-location   = São Paulo, BR
-role       = Cybersecurity Researcher
-focus      = Offensive Security + Research
-
-[interests]
-primary    = Bug Bounty · Web Hacking · CTF
-secondary  = AI in Cyber · Systems Architecture
-deep_dive  = x86 Privilege Rings · Hyper-V Internals
-
-[status]
-platforms  = HackerOne · Bugcrowd · OverTheWire · HTB
-learning   = Red Team · Python Automation · OSCP path
-```
-
-<br clear="right"/>
+Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artificial em 2024**, explorou os mistérios criptográficos do *Cicada 3301*, e hoje se concentra em **Bug Bounty ativo**, pesquisa sobre **IA em Cibersegurança** e arquitetura profunda de sistemas — dos anéis negativos do x86 ao Hyper-V.
 
 ---
 
-### 🎯 Áreas de Atuação
+### ⚡ Current_Operations [Running...]
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🕷️ Bug Bounty & Pentest Web**
-```
-→ Recon Pipeline (subfinder→httpx→gau)
-→ IDOR / BOLA / Mass Assignment
-→ SSRF · SSTI · XXE · JWT Attacks
-→ Cache Poisoning · HTTP Smuggling
-→ WAF Bypass · Logic Flaws
-→ Race Conditions (TOCTOU)
-```
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 IA em Cibersegurança**
-```
-→ AI-Augmented SOC (HITL Model)
-→ LLMs Ofensivos (Claude Mythos)
-→ Automação de Recon com IA
-→ Mercado: substituição vs colaboração
-→ Análise de benchmarks 2025–2026
-→ Dual-use: ataque e defesa
-```
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Arquitetura de Sistemas**
-```
-→ x86 Privilege Rings (-3 a 0)
-→ Intel ME / AMD PSP (Ring -3)
-→ System Management Mode (Ring -2)
-→ Hypervisor / VMX Root (Ring -1)
-→ Microsoft Hyper-V Internals
-→ VBS · Credential Guard · HVCI
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 📂 Repositórios em Destaque
-
-| Repo | Descrição | Status |
-|------|-----------|--------|
-| [🕷️ bug-bounty-methodology](https://github.com/OLIPZZZ/bug-bounty-methodology) | Metodologia completa de pentest web e bug bounty — recon, exploração, automação e relatórios | ![Active](https://img.shields.io/badge/active-00ff41?style=flat-square) |
-| [🤖 ia-cybersecurity-workforce](https://github.com/OLIPZZZ/ia-cybersecurity-workforce) | Pesquisa sobre como a IA está transformando o mercado de cibersegurança e os SOCs | ![Active](https://img.shields.io/badge/active-00ff41?style=flat-square) |
-| [⚙️ negative-rings-hyperv-architecture](https://github.com/OLIPZZZ/negative-rings-hyperv-architecture) | Deep dive em anéis negativos x86, Intel ME, SMM e arquitetura do Hyper-V | ![Active](https://img.shields.io/badge/active-00ff41?style=flat-square) |
-| [🚩 OVER-THE-WIRE-CTFS](https://github.com/OLIPZZZ/OVER-THE-WIRE-CTFS) | Writeups e soluções dos wargames OverTheWire | ![WIP](https://img.shields.io/badge/wip-ffaa00?style=flat-square) |
-
----
-
-### 🛠️ Arsenal
+* 🎓 **Rooting:** Estudando Gestão de TI no Senac e Cybersecurity autodidata.
+* 📜 **Upgrading:** Focado em tirar as certificações **CCNA (Cisco)** e **Pentest Associate (IBSEC)**.
+* 🚩 **Hacking:** Detonando CTFs no *OverTheWire*, metodologia ativa de Bug Bounty no *Hack The Box* e *HackerOne*.
+* 📂 **Documentando:** Construindo base de conhecimento pública em 2 frentes — Bug Bounty, IA em Cyber.
 
 <div align="center">
-
-**Sistemas**
-
-[![Debian](https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org)
-[![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-
-**Ferramentas Ofensivas**
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
-[![Nmap](https://img.shields.io/badge/Nmap-004489?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.com)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://wireshark.org)
-
-**Linguagens**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
-
-**IA & Research**
-
-[![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
-
+  <img src="https://img.shields.io/badge/Cisco_CCNA-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentest_Associate_IBSEC-FF0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" />
 </div>
 
 ---
 
-### 📊 Stats
+### 📂 Active_Repositories
+
+| Repo | Descrição |
+|------|-----------|
+| [🕷️ bug-bounty-methodology](https://github.com/OLIPZZZ/bug-bounty-methodology) | Metodologia completa: recon pipeline, vetores avançados, automação e relatórios |
+| [🤖 ia-cybersecurity-workforce](https://github.com/OLIPZZZ/ia-cybersecurity-workforce) | Pesquisa sobre IA transformando SOCs, mercado e automação de ameaças |
+| [⚙️ negative-rings-hyperv-architecture](https://github.com/OLIPZZZ/negative-rings-hyperv-architecture) | Deep dive em anéis negativos x86, Intel ME, SMM e Hyper-V internals |
+| [🚩 OVER-THE-WIRE-CTFS](https://github.com/OLIPZZZ/OVER-THE-WIRE-CTFS) | Writeups dos wargames OverTheWire |
+
+---
+
+### 🛠️ Arsenal_&_Skills
+
+## ⚔️ Ofensiva (Red Team)
+**Foco em:** Bug Bounty, Pentest Web, Evasion, OSINT, Vulnerability Scanning.
+<br><br>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-1269D3?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-FF9100?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white" />
+
+## 🛡️ Defensiva (Blue Team)
+**Foco em:** Network Protocols, Traffic Analysis, Monitoring, Steganography.
+<br><br>
+<img src="https://img.shields.io/badge/Wireshark-1665C0?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Criptografia-222222?style=for-the-badge" /> <img src="https://img.shields.io/badge/Redes-AAAAAA?style=for-the-badge" /> <img src="https://img.shields.io/badge/SIEM_/_SOC-004488?style=for-the-badge&logoColor=white" />
+
+## ⚙️ Scripting & Lógica
+**Foco em:** Automação de Recon, Criação de Ferramentas, Exploração.
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+
+## 🧠 Workstation & IAs
+
+🐧 **Linux do dia a dia**
+
+<img src="https://img.shields.io/badge/Garuda_Dr460nized-8C38EB?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+
+🤖 **IA — Desenvolvimento, Estudo & Uso Geral**
+
+<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/⚛️_Antigravity-1a1a2e?style=for-the-badge&logo=atom&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20AI-F2E5CE?style=for-the-badge&logo=anthropic&logoColor=black" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<br>
+
+🛡️ **IAs para CyberSecurity**
+
+<img src="https://img.shields.io/badge/PentestGPT_CLI-FF0000?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Venice_AI-6C3483?style=for-the-badge&logo=protonvpn&logoColor=white" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/z.ai-000000?style=for-the-badge&logo=lightning&logoColor=white" /> <img src="https://img.shields.io/badge/Arena.ai-1a1aff?style=for-the-badge&logo=futurelearn&logoColor=white" /> <img src="https://img.shields.io/badge/xBow-FF6600?style=for-the-badge&logo=crosshairs&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Penligent_AI-006644?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Horizon3_NodeZero-1C1C2E?style=for-the-badge&logo=skypack&logoColor=white" /> <img src="https://img.shields.io/badge/Mundix_AI-222222?style=for-the-badge&logo=tor&logoColor=white" /> <img src="https://img.shields.io/badge/DeepInfra-0D47A1?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Duck_AI-FF6600?style=for-the-badge&logo=duckduckgo&logoColor=white" /> <img src="https://img.shields.io/badge/Pingu_AI-00BFFF?style=for-the-badge&logo=tux&logoColor=white" />
+
+🧬 **Self-Hosted & Custom AI**
+
+<img src="https://img.shields.io/badge/LoRA-FF4500?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-20B2AA?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/Fine--Tuning-8B008B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+---
+
+### 🚩 Platforms
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIPZZZ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=OLIPZZZ&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" />
-
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/OverTheWire-8B0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 </div>
 
 ---
 
-### 🚩 CTF & Plataformas
+### 📜 /etc/manifesto.txt
 
-<div align="center">
-
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
-[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-darkred?style=for-the-badge&logoColor=white)](https://overthewire.org)
-[![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/web-security)
-
-</div>
+> *"The human factor is truly security's weakest link."* – Kevin Mitnick
+>
+> *"The CIA n****rs glow in the dark, you can see them if you're driving."* — Terry A. Davis
+>
+> *"Hacking is a powerful tool. Use it to fight for the people, not for corporations or states."* — Phineas Fisher
 
 ---
 
-### 📜 Filosofia
 
-<div align="center">
-
-```
-"The quieter you become, the more you are able to hear."
-                                              — Kali Linux
-
-"Hacking is a powerful tool. Use it to fight for the people,
- not for corporations or states."
-                                              — Phineas Fisher
-
-"Security is a process, not a product."
-                                              — Bruce Schneier
-```
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=OLIPZZZ&color=00ff41&style=flat-square&label=VISITORS)
-
-```bash
-$ echo "Curiosidade é a melhor ferramenta de aprendizado."
-Curiosidade é a melhor ferramenta de qualquer coisa.
-```
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
 </div>
