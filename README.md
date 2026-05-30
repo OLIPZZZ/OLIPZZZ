@@ -48,17 +48,18 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 ## ⚔️ Ofensiva (Red Team)
 **Foco em:** Bug Bounty, Pentest Web, Evasion, OSINT, Vulnerability Scanning.
 <br><br>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-1269D3?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logo=circle&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-FF9100?style=for-the-badge&logo=openstreetmap&logoColor=white" /> <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-1269D3?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-FF9100?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white" />
 
 ## 🛡️ Defensiva (Blue Team)
 **Foco em:** Network Protocols, Traffic Analysis, Monitoring, Steganography.
 <br><br>
-<img src="https://img.shields.io/badge/Wireshark-1665C0?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Criptografia-222222?style=for-the-badge&logo=gnupg&logoColor=white" /> <img src="https://img.shields.io/badge/Redes-AAAAAA?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/SIEM_/_SOC-004488?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1665C0?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Criptografia-222222?style=for-the-badge" /> <img src="https://img.shields.io/badge/Redes-AAAAAA?style=for-the-badge" /> <img src="https://img.shields.io/badge/SIEM_/_SOC-004488?style=for-the-badge&logoColor=white" />
 
 ## ⚙️ Scripting & Lógica
 **Foco em:** Automação de Recon, Criação de Ferramentas, Exploração.
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 
 ## 🧠 Workstation & IAs
 
@@ -70,7 +71,6 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/⚛️_Antigravity-1a1a2e?style=for-the-badge&logo=atom&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20AI-F2E5CE?style=for-the-badge&logo=anthropic&logoColor=black" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 🛡️ **IAs para CyberSecurity**
 
@@ -85,14 +85,6 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 🧬 **Self-Hosted & Custom AI**
 
 <img src="https://img.shields.io/badge/LoRA-FF4500?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-20B2AA?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/Fine--Tuning-8B008B?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
----
-
-### 📊 Stats_&_Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=OLIPZZZ&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF4500&currStreakLabel=FF0000&sideLabels=c9d1d9&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=FF000033&card_width=600" />
-</div>
 
 ---
 
@@ -117,6 +109,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 > *"Hacking is a powerful tool. Use it to fight for the people, not for corporations or states."* — Phineas Fisher
 
 ---
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
