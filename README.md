@@ -100,6 +100,14 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
+### 📊 Stats_&_Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=OLIPZZZ&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF4500&currStreakLabel=FF0000&sideLabels=c9d1d9&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=FF000033&card_width=600" />
+</div>
+
+---
+
 ### 📜 /etc/manifesto.txt
 
 > *"The human factor is truly security's weakest link."* – Kevin Mitnick
