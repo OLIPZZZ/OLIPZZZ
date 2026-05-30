@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c2bbf0b2-7adc-437e-b40d-21021ee74f29" alt="git banner" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0deabaa8-7480-4a96-b4dd-462e46273083" alt="Cyber Security Banner Animado" width="100%">
+</p>
+
 <br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Whoami%3F;CyberSec+Researcher;Bug+Bounty+Hunter;CTF+Player;When+.bat+gets+blocked..." alt="Typing SVG" />
 </div>
