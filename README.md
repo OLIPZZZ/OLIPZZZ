@@ -117,7 +117,8 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
----
+<!-- START_HONEYPOT_LOGS -->
+<!-- END_HONEYPOT_LOGS -->
 
 ---
 
@@ -129,7 +130,3 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
 </div>
-
-<!-- START_HONEYPOT_LOGS -->
-<!-- END_HONEYPOT_LOGS -->
-
