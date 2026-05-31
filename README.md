@@ -118,7 +118,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 ---
 
 <p align="center">
-  <img src="honeypot_monitor.svg" alt="Live Network Intrusion Monitor" width="100%">
+  <img src="honeypot_monitor.svg?v=1780217865" alt="Live Network Intrusion Monitor" width="100%">
 </p>
 
 ---
