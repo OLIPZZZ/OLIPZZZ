@@ -137,9 +137,11 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 | Timestamp (UTC) | Attacker IP | Target Port | Location | Action Taken |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-05-31 05:31:36 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
+| 2026-05-31 05:31:21 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
 | 2026-05-31 05:13:11 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
 
-_Last system sync: 2026-05-31 05:26:15 UTC via Automated Agent._
+_Last system sync: 2026-05-31 05:32:12 UTC via Automated Agent._
 
 <!-- END_HONEYPOT_LOGS -->
 
