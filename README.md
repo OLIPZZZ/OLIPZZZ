@@ -117,7 +117,9 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
----
+<p align="center">
+  <img src="honeypot_monitor.svg" alt="Live Network Intrusion Monitor" width="100%">
+</p>
 
 ---
 
@@ -129,19 +131,3 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=OLIPZZZ&color=FF0000&style=flat-square&label=VISITORS" />
 </div>
-
-<!-- START_HONEYPOT_LOGS -->
-
-### 📡 LIVE NETWORK INTRUSION MONITOR (IDS LOGS)
-> [STATUS: ACTIVE] [NODE: SP-EDGE-01]
-
-| Timestamp (UTC) | Attacker IP | Target Port | Location | Action Taken |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-05-31 05:31:36 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
-| 2026-05-31 05:31:21 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
-| 2026-05-31 05:13:11 | `127.0.0.1` | 2222 | Localhost (Test Node) | `IP_BAN_PERMANENT` |
-
-_Last system sync: 2026-05-31 05:32:12 UTC via Automated Agent._
-
-<!-- END_HONEYPOT_LOGS -->
-
