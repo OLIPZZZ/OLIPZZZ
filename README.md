@@ -30,6 +30,7 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
   <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" />
 </div>
 
+
 ---
 
 ### 📂 Active_Repositories
