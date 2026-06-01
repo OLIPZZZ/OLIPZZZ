@@ -2,13 +2,15 @@ import random
 SVG_PATH = "honeypot_monitor.svg"
 def gerar_ataques():
     paises = [("CN", "Beijing"), ("RU", "Moscow"), ("KP", "Pyongyang"), ("US", "Ashburn"), ("UA", "Kyiv"), ("IR", "Tehran"), ("BR", "Sao Paulo"), ("NL", "Amsterdam"), ("FR", "Paris")]
+    portas = [(22, "TCP_SYN"), (2222, "TCP_SYN"), (80, "TCP_ACK"), (443, "TCP_SSL"), (3389, "TCP_RDP"), (23, "TCP_BRUTE"), (53, "UDP_DNS_AMP"), (123, "UDP_NTP_AMP"), (161, "UDP_SNMP"), (11211, "UDP_MEMC")]
     logs = []
     for i in range(80):
         ip = f"{random.randint(45, 223)}.{random.randint(10, 250)}.{random.randint(10, 250)}.{random.randint(1, 254)}"
-        port = random.choice([22, 2222, 80, 443, 8080, 23, 3389, 53])
+        port, vector = random.choice(portas)
+        vcol = "#ff3333" if "UDP" in vector else "#00bfff"
         pais, cidade = random.choice(paises)
         act = random.choice(["[BAN_PERM]", "[DROP_PKT]", "[REJECT]", "[BLOCK]"])
-        logs.append({"ip": ip, "port": port, "loc": f"{pais} - {cidade}", "act": act})
+        logs.append({"ip": ip, "port": port, "loc": f"{pais} - {cidade}", "act": act, "vec": f"[{vector}]", "vcol": vcol})
     return logs
 def gerar_svg():
     ataques = gerar_ataques()
@@ -23,9 +25,9 @@ def gerar_svg():
     svg += f"<animateTransform attributeName='transform' type='translate' from='0,0' to='0,-{total_h}' dur='25s' repeatCount='indefinite' />"
     y_pos = 20
     for atk in loop:
-        svg += f"<text class='log-text' x='25' y='{y_pos}' fill='#ff3333'>[THREAD_UDP]</text><text class='log-text' x='220' y='{y_pos}' fill='#ffffff'>{atk['ip']}</text><text class='log-text' x='380' y='{y_pos}' fill='#ffcc00'>{atk['port']}</text><text class='log-text' x='460' y='{y_pos}' fill='#00bfff'>{atk['loc']}</text><text class='log-text' x='640' y='{y_pos}' fill='#ff0000'>{atk['act']}</text>"
+        svg += f"<text class='log-text' x='25' y='{y_pos}' fill='{atk['vcol']}'>{atk['vec']}</text><text class='log-text' x='220' y='{y_pos}' fill='#ffffff'>{atk['ip']}</text><text class='log-text' x='380' y='{y_pos}' fill='#ffcc00'>{atk['port']}</text><text class='log-text' x='460' y='{y_pos}' fill='#00bfff'>{atk['loc']}</text><text class='log-text' x='640' y='{y_pos}' fill='#ff0000'>{atk['act']}</text>"
         y_pos += 25
     svg += "</g></svg></svg>"
     with open(SVG_PATH, "w", encoding="utf-8") as f: f.write(svg)
-    print("[SUCESSO] Monitor animado com SMIL gerado!")
+    print("[SUCESSO] Monitor atualizado com TCP e UDP precisos!")
 if __name__ == "__main__": gerar_svg()
