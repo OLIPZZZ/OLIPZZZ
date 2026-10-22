@@ -101,12 +101,6 @@ Minha jornada técnica passou pela defesa de um **TCC sobre Inteligência Artifi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLIPZZZ&theme=react-dark&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true&height=300" alt="Activity Graph Custom Red" width="750px">
-</p>
-
----
-
 ### 📜 /etc/manifesto.txt
 
 > *"The human factor is truly security's weakest link."* – Kevin Mitnick
